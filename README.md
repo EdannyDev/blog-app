@@ -57,9 +57,9 @@ http://localhost:5000
 ```
 
 ## 🗂️Endpoints principales
-- Uploads (archivos estáticos): `/uploads`
+- Archivos estáticos: `/uploads`
 - Usuarios: `/api/users`
-- Publicaciones (posts): `/api/posts`
+- Publicaciones: `/api/posts`
 
 ## ✨Características principales
 - Publicaciones: crear y editar solo las propias.
