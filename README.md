@@ -22,7 +22,8 @@ Se garantiza que los usuarios **no puedan modificar o eliminar contenido ajeno**
 - **MongoDB / Mongoose** (Base de datos NoSQL y modelado de datos)  
 - **JWT** (autenticación y autorización)  
 - **bcryptjs** (encriptación de contraseñas)  
-- **CORS** (seguridad en solicitudes cross-origin)  
+- **CORS** (seguridad en solicitudes cross-origin)
+- **dotenv** (variables de entorno)
 - **Multer** (gestión de subida de imágenes)  
 - **npm** (gestor de dependencias backend)  
 
