@@ -11,8 +11,8 @@ Se garantiza que los usuarios **no puedan modificar o eliminar contenido ajeno**
 
 ## 🛠️Tecnologías utilizadas  
 ### Frontend  
-- **Next.js**  
-- **Material-UI** (componentes y estilos responsivos)  
+- **Next.js** (Framework para frontend)
+- **Material-UI** (estilos e iconos)  
 - **Axios** (consumo de APIs)  
 - **Yarn** (gestor de paquetes)  
 
