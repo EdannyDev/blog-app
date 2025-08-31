@@ -56,6 +56,11 @@ http://localhost:5000
 
 ```
 
+## 🗂️Endpoints principales
+- Uploads (archivos estáticos): `/uploads`
+- Usuarios: `/api/users`
+- Publicaciones (posts): `/api/posts`
+
 ## ✨Características principales
 - Publicaciones: crear y editar solo las propias.
 - Comentarios: comentar únicamente en publicaciones propias y eliminar los propios.
